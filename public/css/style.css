@@ -16,14 +16,14 @@ body {
   
   .blogTitle {
     text-decoration: none;
-    color: darkkhaki;
+    color: rgb(119, 170, 211);
   }
   
   .blogDesc {
     border-style: solid;
     margin-bottom: 5px;
     padding: 2px;
-    background-color: rgb(113, 143, 62);
+    background-color: rgb(196, 177, 177);
   }
   
   .blogDescMain {
@@ -46,7 +46,7 @@ body {
   .blogBoxCont {
       margin-top: 10px;
     border-style: solid;
-    background-color: rgb(113, 143, 62);
+    background-color: rgb(59, 50, 187);
   }
   
   .formCont {
@@ -62,7 +62,7 @@ body {
     margin-right: auto;
     margin-top: 10px;
     max-width: 75%;
-    background-color: rgb(113, 143, 62);
+    background-color: rgb(62, 74, 143);
   }
   
   .commentOwner {
@@ -76,7 +76,7 @@ body {
   .commentText {
     font-weight: bold;
     padding-top: 10px;
-    background-color: rgb(113, 143, 62);
+    background-color: rgb(247, 247, 247);
   }
   
   .commentCont {
@@ -89,14 +89,14 @@ body {
   }
   
   a:link {
-    color: rgb(29, 200, 23);
+    color: rgb(56, 117, 158);
   }
   a:visited {
-    color: rgb(182, 179, 41);
+    color: rgb(69, 78, 100);
   }
   
   a:hover {
-    color: deeppink;
+    color: rgb(121, 159, 228);
   }
   
   .login{
